@@ -28,11 +28,6 @@
  - [Fernanda Rosa](https://github.com/fefarosa)
  - [Suellen Haubrick](https://github.com/Suellenhf)
 
- ## Repositories
-
-- [Server](https://github.com/fefarosa/trvld-project-server)
-- [Client](https://github.com/fefarosa/trvld-project-client)
-
 ## Deploy
 
 > *Use the app* >>
